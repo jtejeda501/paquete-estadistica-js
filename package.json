@@ -1,5 +1,5 @@
 {
-  "name": "@icebeam7/paquete-estadistica",
+  "name": "@jtejeda501/paquete-estadistica",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,18 +7,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/icebeam7/paquete-estadistica-js.git"
+    "url": "https://github.com/jtejeda501/paquete-estadistica-js.git"
   },
   "keywords": [],
-  "author": "Luis Beltrán",
+  "author": "Julio Tejeda",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
   "bugs": {
-    "url": "https://github.com/icebeam7/paquete-estadistica-js/issues"
+    "url": "https://github.com/jtejeda501/paquete-estadistica-js/issues"
   },
-  "homepage": "https://github.com/icebeam7/paquete-estadistica-js#readme",
+  "homepage": "https://github.com/jtejeda501/paquete-estadistica-js#readme",
   "description": "Funciones estadísticas y generación de gráficas con Node.js",
   "dependencies": {
     "canvas": "^3.1.0",
